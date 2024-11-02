@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://esomuima.github.io/HEh/sitemap_index.txt
+Sitemap: https://esomuima.github.io/jEA/sitemap_index.txt
+Sitemap: https://esomuima.github.io/mED/sitemap_index.txt
+Sitemap: https://esomuima.github.io/pIe/sitemap_index.txt
